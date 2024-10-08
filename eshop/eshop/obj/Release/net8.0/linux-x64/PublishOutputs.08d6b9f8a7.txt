@@ -1,0 +1,4 @@
+C:\Users\zxc01\Desktop\eshop\eshop\eshop\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Users\zxc01\Desktop\eshop\eshop\eshop\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Users\zxc01\Desktop\eshop\eshop\eshop\bin\Release\net8.0\linux-x64\publish\eshop.pdb
+C:\Users\zxc01\Desktop\eshop\eshop\eshop\bin\Release\net8.0\linux-x64\publish\eshop

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|c:\\users\\zxc01\\desktop\\eshop\\eshop\\eshop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|solutionrelative:eshop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|c:\\users\\zxc01\\desktop\\eshop\\eshop\\eshop\\dtos\\users\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|solutionrelative:eshop\\dtos\\users\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|c:\\users\\zxc01\\desktop\\eshop\\eshop\\eshop\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|solutionrelative:eshop\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|c:\\users\\zxc01\\desktop\\eshop\\eshop\\eshop\\profiles\\usersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|solutionrelative:eshop\\profiles\\usersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|c:\\users\\zxc01\\desktop\\eshop\\eshop\\eshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|solutionrelative:eshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|c:\\users\\zxc01\\desktop\\eshop\\eshop\\eshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|solutionrelative:eshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|c:\\users\\zxc01\\desktop\\eshop\\eshop\\eshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|solutionrelative:eshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|c:\\users\\zxc01\\desktop\\eshop\\eshop\\eshop\\profiles\\productsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927E026-B280-4DAB-BC49-C2F2F9529AF3}|eshop\\eshop.csproj|solutionrelative:eshop\\profiles\\productsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eshop\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eshop\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T07:48:56.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\appsettings.json",
+              "RelativeDocumentMoniker": "eshop\\appsettings.json",
+              "ToolTip": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\appsettings.json",
+              "RelativeToolTip": "eshop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T07:48:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "productsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Profiles\\productsProfile.cs",
+              "RelativeDocumentMoniker": "eshop\\Profiles\\productsProfile.cs",
+              "ToolTip": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Profiles\\productsProfile.cs",
+              "RelativeToolTip": "eshop\\Profiles\\productsProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:22:49.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usersProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Profiles\\usersProfile.cs",
+              "RelativeDocumentMoniker": "eshop\\Profiles\\usersProfile.cs",
+              "ToolTip": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Profiles\\usersProfile.cs",
+              "RelativeToolTip": "eshop\\Profiles\\usersProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:20:31.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Models\\users.cs",
+              "RelativeDocumentMoniker": "eshop\\Models\\users.cs",
+              "ToolTip": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Models\\users.cs",
+              "RelativeToolTip": "eshop\\Models\\users.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:19:37.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usersDto.cs",
+              "DocumentMoniker": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Dtos\\Users\\usersDto.cs",
+              "RelativeDocumentMoniker": "eshop\\Dtos\\Users\\usersDto.cs",
+              "ToolTip": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Dtos\\Users\\usersDto.cs",
+              "RelativeToolTip": "eshop\\Dtos\\Users\\usersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:18:27.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usersController.cs",
+              "DocumentMoniker": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Controllers\\usersController.cs",
+              "RelativeDocumentMoniker": "eshop\\Controllers\\usersController.cs",
+              "ToolTip": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Controllers\\usersController.cs",
+              "RelativeToolTip": "eshop\\Controllers\\usersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:17:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "productsController.cs",
+              "DocumentMoniker": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Controllers\\productsController.cs",
+              "RelativeDocumentMoniker": "eshop\\Controllers\\productsController.cs",
+              "ToolTip": "C:\\Users\\zxc01\\Desktop\\eshop\\eshop\\eshop\\Controllers\\productsController.cs",
+              "RelativeToolTip": "eshop\\Controllers\\productsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:19:50.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
